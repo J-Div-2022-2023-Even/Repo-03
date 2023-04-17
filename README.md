@@ -4,6 +4,10 @@
 
 Build a bot that can slide/walk on the rope and is reliable to  reach the destination with certain weight.
 
+## Motive:
+ 
+ Throughout the history of robot development, most of the subjects are based on wheeled mobile robots and are moving on the floor.But by discovering different types of locomotives can help in many ways (i.e. as increasing in quality of life, for rescue aid, for military applicationsetc). The robot needs only a DC motor and two servo motors for the climbing operation. The advantages of the proposed robot are low energy consumption, low cost, easy to control and build.
+
 
 ## Appendix
 
@@ -35,7 +39,8 @@ This bot provides a fast and effective way to deliver items to inaccessible plac
  - ..
 
 ##References 
-
+1. https://youtu.be/JxBWXOBbXFg
+2. https://youtu.be/h0R1OUNKOWg
 -[print the references here]()
  
 
