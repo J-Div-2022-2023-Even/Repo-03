@@ -4,10 +4,6 @@
 
 Build a bot that can slide/walk on the rope and is reliable to  reach the destination with certain weight.
 
-## Motive:
- 
- Throughout the history of robot development, most of the subjects are based on wheeled mobile robots and are moving on the floor.But by discovering different types of locomotives can help in many ways (i.e. as increasing in quality of life, for rescue aid, for military applicationsetc). The robot needs only a DC motor and two servo motors for the climbing operation. The advantages of the proposed robot are low energy consumption, low cost, easy to control and build.
-
 
 ## Appendix
 
@@ -17,6 +13,10 @@ This bot provides a fast and effective way to deliver items to inaccessible plac
 
 #### Screenshots:
 ##### Beginning Motivation
+## Motive:
+ 
+ Throughout the history of robot development, most of the subjects are based on wheeled mobile robots and are moving on the floor.But by discovering different types of locomotives can help in many ways (i.e. as increasing in quality of life, for rescue aid, for military applicationsetc). The robot needs only a DC motor and two servo motors for the climbing operation. The advantages of the proposed robot are low energy consumption, low cost, easy to control and build.
+
 ![robot-tight-rope-14891657](https://user-images.githubusercontent.com/130633617/231752606-3ff57fb1-dcc3-4c1c-b73b-c7c014b99597.jpg)
 
 
@@ -35,14 +35,24 @@ This bot provides a fast and effective way to deliver items to inaccessible plac
 
  - [Work by karanson on robot](https://github.com/karansoni1072002/Rope-Climbing-Bot)
  - [Neards project on bot](https://github.com/NERDS-PROJECTS/Rope-Climbing-Robot)
- - [Students form IIT](https://github.com/marsiitr/Rope-Climbing-Robot)
+ - [Students form IIT made a Vertical bot](https://github.com/marsiitr/Rope-Climbing-Robot)
  - ..
 
-##References 
+### References 
 1. https://youtu.be/JxBWXOBbXFg
 2. https://youtu.be/h0R1OUNKOWg
 -[print the references here]()
  
+## Applications
+Robot is planned to serve the following tasks:
+
+1. It can be used to carry weights or to drop weights from some height.
+
+2. When equipped with camera, the robot can be used for surveillence.
+
+3. When equipped with cleaners, it can be used to clean glasses of windows or walls.
+
+4. Robot can be used to take pictures or to make videos from different heights.
 
 
 ## Team-3
@@ -53,6 +63,8 @@ This bot provides a fast and effective way to deliver items to inaccessible plac
 - [Sampreeta Koppad](https://github.com/SampreetaKoppad)
 - [Sameer Mansur](https://github.com/Sameer-Mansur)
 - [Veeresh Huddar](https://github.com/Veeresh-huddar)
+ ##### Mentor
+ Ashwin R K
 
 
 
