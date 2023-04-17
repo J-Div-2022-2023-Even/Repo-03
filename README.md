@@ -9,7 +9,7 @@ Build a bot that can slide/walk on the rope and is reliable to  reach the destin
 
 #### Description:
 
-This bot provides a fast and effective way to deliver items to inaccessible places. For example, it can quickly deliver items to soldiers in the forest or deliver food and other necessities to people in need.
+This bot provides a fast and effective way to deliver items to inaccessible places. For example, it can quickly deliver items to soldiers in the forest or deliver food and other necessities to people in face of disaster.
 
 #### Screenshots:
 ##### Beginning Motivation
