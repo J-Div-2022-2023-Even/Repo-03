@@ -17,7 +17,6 @@ This bot provides a fast and effective way to deliver items to inaccessible plac
  
  Throughout the history of robot development, most of the subjects are based on wheeled mobile robots and are moving on the floor.But by discovering different types of locomotives can help in many ways (i.e. as increasing in quality of life, for rescue aid, for military applicationsetc). The robot needs only a DC motor and two servo motors for the climbing operation. The advantages of the proposed robot are low energy consumption, low cost, easy to control and build.
 
-![robot-tight-rope-14891657](https://user-images.githubusercontent.com/130633617/231752606-3ff57fb1-dcc3-4c1c-b73b-c7c014b99597.jpg)
 
 
 ##### Found project 1(Status=UN Discussed)
@@ -31,7 +30,7 @@ This bot provides a fast and effective way to deliver items to inaccessible plac
 ![Gyroscope bot](https://user-images.githubusercontent.com/130633617/232180455-9ca2a202-95b4-42da-903e-17ca5d6fce6a.png)
 
 
-## Acknowledgements
+## Acknowledgements(people who made project)
 
  - [Work by karanson on robot](https://github.com/karansoni1072002/Rope-Climbing-Bot)
  - [Neards project on bot](https://github.com/NERDS-PROJECTS/Rope-Climbing-Robot)
