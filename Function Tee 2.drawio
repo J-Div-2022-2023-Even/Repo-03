@@ -1,0 +1,256 @@
+<mxfile host="app.diagrams.net" modified="2023-04-22T14:38:10.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kqDtVybKxgDiCuEiJwjH" version="21.2.1" type="device">
+  <diagram name="Page-1" id="bHRx6GsRoOLTSzyZCfrG">
+    <mxGraphModel dx="1235" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LDmKbt-RG2LomOr580Co-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;1.Travle form A to B&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="130" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.019;exitY=0.34;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LDmKbt-RG2LomOr580Co-15">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="250" y="80" as="sourcePoint" />
+            <mxPoint x="100" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="120" as="sourcePoint" />
+            <mxPoint x="870" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-5" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;2. Stay at B&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1005" y="100" as="sourcePoint" />
+            <mxPoint x="1640" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1640" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-7" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;3.Travel back to A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="155" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="880" as="sourcePoint" />
+            <mxPoint x="40" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="280" as="sourcePoint" />
+            <mxPoint x="80" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-14" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;1.1 Wheels need to move down slowly.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Semi-Autonomous bot&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="50" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="400" as="sourcePoint" />
+            <mxPoint x="80" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-19" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;1.2 Direction of the bot should be towards B.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="560" as="sourcePoint" />
+            <mxPoint x="80" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-21" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;1.3 The bot should not tilt.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="720" as="sourcePoint" />
+            <mxPoint x="80" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="880" as="sourcePoint" />
+            <mxPoint x="80" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-24" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;1.4 Has to have a switch to start moving.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-26" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;1.5...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="880" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="780" as="sourcePoint" />
+            <mxPoint x="855" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="300" as="sourcePoint" />
+            <mxPoint x="895" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-29" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;2.1 Stop at B.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="300" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="460" as="sourcePoint" />
+            <mxPoint x="895" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-31" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;2.2 Unload the weight.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="460" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="620" as="sourcePoint" />
+            <mxPoint x="895" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-33" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;2.3 Set the bot ready to go to A.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="620" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="780" as="sourcePoint" />
+            <mxPoint x="895" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-35" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;2.4 ...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="770" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="785" as="sourcePoint" />
+            <mxPoint x="1580" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="305" as="sourcePoint" />
+            <mxPoint x="1620" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-38" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;3.1 Reverse the wheel direction .&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="305" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="465" as="sourcePoint" />
+            <mxPoint x="1620" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-40" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;3.2 Move towards A.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="465" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="625" as="sourcePoint" />
+            <mxPoint x="1620" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-42" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;3.3 Should not slip while moving or tilt.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="625" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="785" as="sourcePoint" />
+            <mxPoint x="1620" y="785" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-44" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;3.4 Ha to have a switch to start moving towards A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="775" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LDmKbt-RG2LomOr580Co-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="290" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-46" value="Motors need to work" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LDmKbt-RG2LomOr580Co-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="300" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-48" value="Microcontroller needs to work properly." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LDmKbt-RG2LomOr580Co-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="410" as="sourcePoint" />
+            <mxPoint x="320" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-50" value="Gyroscope needs to work continuously." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.444;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LDmKbt-RG2LomOr580Co-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="600" as="sourcePoint" />
+            <mxPoint x="320" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-53" value="Wheels arrangement for maximum friction." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.355;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LDmKbt-RG2LomOr580Co-21" target="LDmKbt-RG2LomOr580Co-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="610" as="sourcePoint" />
+            <mxPoint x="500" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-55" value="Defined structure ." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LDmKbt-RG2LomOr580Co-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="570" as="sourcePoint" />
+            <mxPoint x="340" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-57" value="Ardiuno Commands need to run" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LDmKbt-RG2LomOr580Co-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="300" as="sourcePoint" />
+            <mxPoint x="1160" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-59" value="..." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LDmKbt-RG2LomOr580Co-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1075" y="310" as="sourcePoint" />
+            <mxPoint x="1920" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmKbt-RG2LomOr580Co-61" value="Motors need to change direction and command need to work" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="180" width="180" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
